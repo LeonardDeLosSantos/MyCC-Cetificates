@@ -22,8 +22,7 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 ---
 
->  **Certificate Verification:** You can view my verified certificate or credentials [here]
-(https://github.com/LeonardDeLosSantos/LeonardDeLosSantos/blob/main/Net%20I%20Cert%208.2026%20189.pdf).
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](https://github.com/LeonardDeLosSantos/LeonardDeLosSantos/blob/main/Net%20I%20Cert%208.2026%20189.pdf).
 
 
 
