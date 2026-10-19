@@ -24,3 +24,14 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 >  **Certificate Verification:** You can view my verified certificate or credentials [here]
 (https://github.com/LeonardDeLosSantos/LeonardDeLosSantos/blob/main/Net%20I%20Cert%208.2026%20189.pdf).
+
+| Certificate Details | Summary |
+| :--- | :--- |
+| **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
+| **Program/Course** | *Foundational Skills for IT Professionals* |
+| **Date Completed** | *September 27th, 2026* |
+| **Key Skills Acquired** | Network Administration, Cybersecurity Fundamentals, Hardware Troubleshooting, System Support |
+
+---
+
+>  **Certificate Verification:** You can view my verified certificate or credentials [here](https://learn.microsoft.com/api/credentials/share/en-us/LeonardDeLosSantos-5941/2018977FC5237ED0?sharingId=1BEA027710F68F06)
