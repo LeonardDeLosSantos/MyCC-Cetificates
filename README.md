@@ -25,12 +25,14 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 >  **Certificate Verification:** You can view my verified certificate or credentials [here]
 (https://github.com/LeonardDeLosSantos/LeonardDeLosSantos/blob/main/Net%20I%20Cert%208.2026%20189.pdf).
 
+
+
 | Certificate Details | Summary |
 | :--- | :--- |
 | **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
-| **Program/Course** | *Foundational Skills for IT Professionals* |
+| **Program/Course** | *Microsoft AI-901: Azure AI Fundamentals* |
 | **Date Completed** | *September 27th, 2026* |
-| **Key Skills Acquired** | Network Administration, Cybersecurity Fundamentals, Hardware Troubleshooting, System Support |
+| **Key Skills Acquired** | Microsoft Azure AI fundamentals, Machine learning concepts, Generative AI concepts, Natural language processing (NLP), Computer vision, Azure AI services, Responsible AI principles |
 
 ---
 
