@@ -13,7 +13,7 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 <br />
 
-| Certificate Details | Summary |
+| Certificate Details | Course Achievement |
 | :--- | :--- |
 | **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
 | **Program/Course** | *Foundational Skills for IT Professionals* |
@@ -26,7 +26,7 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 
 
 
-| Certificate Details | Summary |
+| Certificate Details | Microsoft Certifications & Achievements |
 | :--- | :--- |
 | **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
 | **Program/Course** | *Microsoft AI-901: Azure AI Fundamentals* |
