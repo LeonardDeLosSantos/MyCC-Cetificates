@@ -30,7 +30,7 @@ I have successfully completed training at **MyComputerCareer**, gaining hands-on
 | :--- | :--- |
 | **Institution** | [MyComputerCareer](https://www.mycomputercareer.edu/) |
 | **Program/Course** | *Microsoft AI-901: Azure AI Fundamentals* |
-| **Date Completed** | *September 27th, 2026* |
+| **Date Completed** | *October 16th, 2026* |
 | **Key Skills Acquired** | Microsoft Azure AI fundamentals, Machine learning concepts, Generative AI concepts, Natural language processing (NLP), Computer vision, Azure AI services, Responsible AI principles |
 
 ---
